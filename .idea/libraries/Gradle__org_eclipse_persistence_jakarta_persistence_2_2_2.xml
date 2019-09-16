@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.persistence:jakarta.persistence:2.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/jakarta.persistence/2.2.2/d69c13992dec6890f6ad556c3cb447c932be0e14/jakarta.persistence-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/jakarta.persistence/2.2.2/fa67a2f45508a1642d2f3e5747a8513063a4d29f/jakarta.persistence-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

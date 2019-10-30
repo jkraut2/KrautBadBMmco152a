@@ -4,10 +4,10 @@ package edu.touro.mco152.bm;
 import java.text.DecimalFormat;
 
 /**
- * Gets and sets the variables for the grid
+ * Gets and sets the variables for the grid.
  * @author Ezra Koppel
  */
-public class DiskMark {
+public class DiskMark implements MarkInterface {
     
     static DecimalFormat df = new DecimalFormat("###.###");
     
